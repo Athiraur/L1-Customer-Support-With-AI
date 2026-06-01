@@ -1,1 +1,4 @@
-Archu1234@
+python-jose[cryptography]
+passlib
+bleach
+groq
